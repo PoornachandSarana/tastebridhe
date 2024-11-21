@@ -1,2 +1,28 @@
 Demo of Project:
 https://drive.google.com/file/d/1lM25KJXGAebrVgcbAUUnDuXSg8DuQoJO/view?usp=drive_link 
+
+
+Instructions to run this project:
+Please follow the below instructions to run the project:
+Make sure you have python installed in your system and then open terminal to install django using below commands.
+pip install django
+move into the project directory where manage.py file exists
+Open the terminal and run 
+1)  python manage.py makemigrations RecipeApp
+2)  python manage.py migrate
+
+create super user for django admin panel where u can see the database
+python manage.py createsuperuser
+it will ask you for username,email and password in terminal
+then run 
+python manage.py runserver 
+and open this url on chrome
+for web app;
+http://127.0.0.1:8000/
+
+for admin panel
+http://127.0.0.1:8000/admin
+enter superuser username and password 
+  
+
+ 
