@@ -1,1 +1,3 @@
 Tastebridge is a community-driven recipe-sharing web application that allows users to upload, search, and interact with recipes. The platform features a single search box where users can enter keywords (ingredients, cuisines, or dish names) to find recipes. If no exact match is found, the system displays the best-rated recipes as fallback results, ensuring a seamless user experience. With personalized dashboards and interactive features like liking, commenting, and rating, Tastebridge promotes culinary exploration, cultural exchange, and sustainable cooking practices. Built using Django, SQLite, and a responsive frontend.
+
+Please check demo for project instructions and demo of the project
